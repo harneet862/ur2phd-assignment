@@ -1,0 +1,661 @@
+instance_id,text1,text2,label,raw_zeroshot,pred_zeroshot,parsed_ok_zeroshot
+dico_phrasis_0000002__en-en__flipped,'s war shrine visit,'s shrine visit,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000002__en-en__original,'s shrine visit,'s war shrine visit,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000004__en-en__flipped,anti-protest laws,anti-protest law,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000004__en-en__original,anti-protest law,anti-protest laws,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000008__en-en__flipped,Iran nuclear experts and also world powers,World powers and Iran,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000008__en-en__original,World powers and Iran,Iran nuclear experts and also world powers,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000010__en-en__flipped,Nine children,Five children,"('NEGATIVE_OTHER', True)",NEGATIVE_OTHER,NEGATIVE_OTHER,True
+dico_phrasis_0000010__en-en__original,Five children,Nine children,"('NEGATIVE_OTHER', True)",NEGATIVE_OTHER,NEGATIVE_OTHER,True
+dico_phrasis_0000018__en-en__flipped,of all Rage rallies,march of anger,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000018__en-en__original,march of anger,of all Rage rallies,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000019__en-en__flipped,Security video,Video,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000019__en-en__original,Video,Security video,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000021__en-en__flipped,Six killed,One dead,"('NEGATIVE_OTHER', True)",NEGATIVE_OTHER,NEGATIVE_OTHER,True
+dico_phrasis_0000021__en-en__original,One dead,Six killed,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000023__en-en__flipped,Pope Francis,pope,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000023__en-en__original,pope,Pope Francis,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000024__en-en__flipped,in destroying,destroy,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000024__en-en__original,destroy,in destroying,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000030__en-en__flipped,Wikileaks soldier Bradley Manning,Bradley Manning,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000030__en-en__original,Bradley Manning,Wikileaks soldier Bradley Manning,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000031__en-en__flipped,Brazil crowds,Brazil,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000031__en-en__original,Brazil,Brazil crowds,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000034__en-en__flipped,"Venezuela Government , Opposition Head",Venezuelan opposition leader,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000034__en-en__original,Venezuelan opposition leader,"Venezuela Government , Opposition Head","('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000046__en-en__flipped,as new CEO,as CEO,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000046__en-en__original,as CEO,as new CEO,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000059__en-en__flipped,for costa concordia shipwreck disaster,over Costa Concordia disaster,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000059__en-en__original,over Costa Concordia disaster,for costa concordia shipwreck disaster,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000070__en-en__flipped,for huge democracy rally,for democracy march,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000070__en-en__original,for democracy march,for huge democracy rally,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000078__en-en__flipped,in Afghan city,in Afghanistan,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000078__en-en__original,in Afghanistan,in Afghan city,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000087__en-en__flipped,as national security adviser,as his security adviser,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000087__en-en__original,as his security adviser,as national security adviser,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000096__en-en__flipped,A man and a woman,A man,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000096__en-en__original,A man,A man and a woman,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000099__en-en__flipped,Three dogs,The dog,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000099__en-en__original,The dog,Three dogs,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000101__en-en__flipped,A biker,A person,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000101__en-en__original,A person,A biker,"('NEGATIVE_OTHER', True)",NEGATIVE_OTHER,NEGATIVE_OTHER,True
+dico_phrasis_0000106__en-en__flipped,with a tennis ball,with a ball,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000106__en-en__original,with a ball,with a tennis ball,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000118__en-en__flipped,through the tall green grass,on the grass,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000118__en-en__original,on the grass,through the tall green grass,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000120__en-en__flipped,A white boat,a boat,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000120__en-en__original,a boat,A white boat,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000125__en-en__flipped,in an overgrown green grassy field,through green grass,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000125__en-en__original,through green grass,in an overgrown green grassy field,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000133__en-en__flipped,The German shepherd dark dog,A black dog,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000133__en-en__original,A black dog,The German shepherd dark dog,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000141__en-en__flipped,in front of a pool,at a pool,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000141__en-en__original,at a pool,in front of a pool,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000145__en-en__flipped,Two brown dogs,Two dogs,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000145__en-en__original,Two dogs,Two brown dogs,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000162__en-en__flipped,of every horse,a horse,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000162__en-en__original,a horse,of every horse,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000164__en-en__flipped,A young man,A man,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000164__en-en__original,A man,A young man,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000165__en-en__flipped,A black pit bull dog,A black dog,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000165__en-en__original,A black dog,A black pit bull dog,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000185__en-en__flipped,Three girls,The girl,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000185__en-en__original,The girl,Three girls,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000190__en-en__flipped,The brownish and white dogs,The tan and white dog,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000190__en-en__original,The tan and white dog,The brownish and white dogs,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000192__en-en__flipped,a blond girl,A woman,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000192__en-en__original,A woman,a blond girl,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000198__en-en__flipped,a chocolate bar,a candy bar,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000198__en-en__original,a candy bar,a chocolate bar,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000219__en-en__flipped,around the flat snowy street,across the snow,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000219__en-en__original,across the snow,around the flat snowy street,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000221__en-en__flipped,in a grassy green field,in a yard,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000221__en-en__original,in a yard,in a grassy green field,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000223__en-en__flipped,of a brown bull,while a bull,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000223__en-en__original,while a bull,of a brown bull,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000226__en-en__flipped,through a green yard,through the grass,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000226__en-en__original,through the grass,through a green yard,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000240__en-en__flipped,Cambodia opposition leaders,Opposition leaders,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000240__en-en__original,Opposition leaders,Cambodia opposition leaders,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000241__en-en__flipped,To Taliban,Taliban,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000241__en-en__original,Taliban,To Taliban,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000249__en-en__flipped,its first memorial,remembered,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000249__en-en__original,remembered,its first memorial,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000259__en-en__flipped,new health care law,health care law,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000259__en-en__original,health care law,new health care law,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000262__en-en__flipped,of most critics,Critics,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000262__en-en__original,Critics,of most critics,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000263__en-en__flipped,on Muslim Brotherhood,on Brotherhood,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000263__en-en__original,on Brotherhood,on Muslim Brotherhood,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000271__en-en__flipped,US stocks,Stocks,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000271__en-en__original,Stocks,US stocks,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000277__en-en__flipped,stroke,health problem,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000277__en-en__original,health problem,stroke,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000279__en-en__flipped,11 Afghan children,two Afghan children,"('NEGATIVE_OTHER', True)",NEGATIVE_OTHER,NEGATIVE_OTHER,True
+dico_phrasis_0000279__en-en__original,two Afghan children,11 Afghan children,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000283__en-en__flipped,Muslim Brotherhood supporters,Muslim Brotherhood supporter,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000283__en-en__original,Muslim Brotherhood supporter,Muslim Brotherhood supporters,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000284__en-en__flipped,on Thursday,Thursday,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000284__en-en__original,Thursday,on Thursday,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000290__en-en__flipped,for return,return,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000290__en-en__original,return,for return,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000294__en-en__flipped,in Syria chemical weapons attack,in Syria attack,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000294__en-en__original,in Syria attack,in Syria chemical weapons attack,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000303__en-en__flipped,in prayer and song,prays,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000303__en-en__original,prays,in prayer and song,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000328__en-en__flipped,in NW Pakistan,in Pak,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000328__en-en__original,in Pak,in NW Pakistan,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000329__en-en__flipped,Suicide bombers,Suicide bomber,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000329__en-en__original,Suicide bomber,Suicide bombers,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000331__en-en__flipped,China and Taiwan,China,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000331__en-en__original,China,China and Taiwan,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000340__en-en__flipped,Air strikes,strikes,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000340__en-en__original,strikes,Air strikes,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000345__en-en__flipped,after Zimmerman,George Zimmerman,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000345__en-en__original,George Zimmerman,after Zimmerman,"('NEGATIVE_OTHER', True)",NEGATIVE_OTHER,NEGATIVE_OTHER,True
+dico_phrasis_0000350__en-en__flipped,of all people,8-10 people,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000350__en-en__original,8-10 people,of all people,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000370__en-en__flipped,on Syria military action,over Syria action,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000370__en-en__original,over Syria action,on Syria military action,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000375__en-en__flipped,to deliver statement,to speak,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000375__en-en__original,to speak,to deliver statement,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000391__en-en__flipped,British hospital,hospital,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000391__en-en__original,hospital,British hospital,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000393__en-en__flipped,diamond sanctions,sanctions,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000393__en-en__original,sanctions,diamond sanctions,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000405__en-en__flipped,at Morsi rallies,at Morsi rally,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000405__en-en__original,at Morsi rally,at Morsi rallies,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000421__en-en__flipped,Mubarak 's release request,Mubarak release,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000421__en-en__original,Mubarak release,Mubarak 's release request,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000425__en-en__flipped,on economy,economy,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000425__en-en__original,economy,on economy,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000432__en-en__flipped,with a black top and a necklace,with a big necklace,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000432__en-en__original,with a big necklace,with a black top and a necklace,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000444__en-en__flipped,in a lush green field,in the field,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000444__en-en__original,in the field,in a lush green field,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000447__en-en__flipped,four people,Two people,"('NEGATIVE_OTHER', True)",NEGATIVE_OTHER,NEGATIVE_OTHER,True
+dico_phrasis_0000447__en-en__original,Two people,four people,"('NEGATIVE_OTHER', True)",NEGATIVE_OTHER,NEGATIVE_OTHER,True
+dico_phrasis_0000449__en-en__flipped,A black car,A black vehicle,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000449__en-en__original,A black vehicle,A black car,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000452__en-en__flipped,A small orange and white dog,A brownish and white dog,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000452__en-en__original,A brownish and white dog,A small orange and white dog,"('NEGATIVE_OTHER', True)",NEGATIVE_OTHER,NEGATIVE_OTHER,True
+dico_phrasis_0000453__en-en__flipped,looking up,looking,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000453__en-en__original,looking,looking up,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000466__en-en__flipped,A large sheep,A sheep,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000466__en-en__original,A sheep,A large sheep,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000469__en-en__flipped,A red and white England bus,A red and white bus,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000469__en-en__original,A red and white bus,A red and white England bus,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000487__en-en__flipped,on branches,on the branch,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000487__en-en__original,on the branch,on branches,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000493__en-en__flipped,on the brown horse,a horse,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000493__en-en__original,a horse,on the brown horse,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000495__en-en__flipped,A black steam train,Train,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000495__en-en__original,Train,A black steam train,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000497__en-en__flipped,of some runway,from the airport,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000497__en-en__original,from the airport,of some runway,"('NEGATIVE_OTHER', True)",NEGATIVE_OTHER,NEGATIVE_OTHER,True
+dico_phrasis_0000499__en-en__flipped,"inside a cow-schemed , fur-covered dome",inside and black and white furry enclosure,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000499__en-en__original,inside and black and white furry enclosure,"inside a cow-schemed , fur-covered dome","('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000514__en-en__flipped,from a bird feeder,from the feeder,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000514__en-en__original,from the feeder,from a bird feeder,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000516__en-en__flipped,A small red and gray bird,A red bird,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000516__en-en__original,A red bird,A small red and gray bird,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000540__en-en__flipped,in a pen with hay,in hay,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000540__en-en__original,in hay,in a pen with hay,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000541__en-en__flipped,along the street,a street,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000541__en-en__original,a street,along the street,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000552__en-en__flipped,Dining room with wooden dining table,The dining room table,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000552__en-en__original,The dining room table,Dining room with wooden dining table,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000559__en-en__flipped,A man,A person,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000559__en-en__original,A person,A man,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000560__en-en__flipped,A mostly black train,A black train,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000560__en-en__original,A black train,A mostly black train,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000561__en-en__flipped,A white dog,A white animal,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000561__en-en__original,A white animal,A white dog,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000562__en-en__flipped,at a window,the window,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000562__en-en__original,the window,at a window,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000568__en-en__flipped,A red and white double decker bus is parked,Parked white double decker bus,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000568__en-en__original,Parked white double decker bus,A red and white double decker bus is parked,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000602__en-en__flipped,"A gray , black , and white cat",The black and white cat,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000602__en-en__original,The black and white cat,"A gray , black , and white cat","('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000604__en-en__flipped,A small white dog,The small dog,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000604__en-en__original,The small dog,A small white dog,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000614__en-en__flipped,with a puppy,with dog,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000614__en-en__original,with dog,with a puppy,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000616__en-en__flipped,The wall-mounted flat-screen TV,of a television screen,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000616__en-en__original,of a television screen,The wall-mounted flat-screen TV,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000618__en-en__flipped,Two women,Two people,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000618__en-en__original,Two people,Two women,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000619__en-en__flipped,A group of people,Six people,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000619__en-en__original,Six people,A group of people,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000623__en-en__flipped,with newborn baby,a baby,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000623__en-en__original,a baby,with newborn baby,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000632__en-en__flipped,with its landing gears,with its landing gear,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000632__en-en__original,with its landing gear,with its landing gears,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000641__en-en__flipped,In Bhutto Death,over Bhutto murder,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000641__en-en__original,over Bhutto murder,In Bhutto Death,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000661__en-en__flipped,to Bring,brings,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000661__en-en__original,brings,to Bring,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000711__en-en__flipped,of bribing,to pay off,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000711__en-en__original,to pay off,of bribing,"('NEGATIVE_OTHER', True)",NEGATIVE_OTHER,NEGATIVE_OTHER,True
+dico_phrasis_0000712__en-en__flipped,Microsoft's productivity-software suite,Microsoft Office,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000712__en-en__original,Microsoft Office,Microsoft's productivity-software suite,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000721__en-en__flipped,Rabbi Ovadia Yosef,Ovadia Yosef,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000721__en-en__original,Ovadia Yosef,Rabbi Ovadia Yosef,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000724__en-en__flipped,a man and a woman,A woman and a man,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000724__en-en__original,A woman and a man,a man and a woman,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000725__en-en__flipped,for a picture,For a photograph,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000725__en-en__original,For a photograph,for a picture,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000726__en-en__flipped,A young boy,A youthful male child,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000726__en-en__original,A youthful male child,A young boy,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000729__en-en__flipped,A woman,An adult female,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000729__en-en__original,An adult female,A woman,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000731__en-en__flipped,inside a swimming pool,in the pool,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000731__en-en__original,in the pool,inside a swimming pool,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000732__en-en__flipped,leaping,is jumping,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000732__en-en__original,is jumping,leaping,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000733__en-en__flipped,through grass,across the grassy area,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000733__en-en__original,across the grassy area,through grass,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000743__en-en__flipped,is underwater,submerged in water,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000743__en-en__original,submerged in water,is underwater,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000752__en-en__flipped,immersed in water,in water,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000752__en-en__original,in water,immersed in water,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000768__en-en__flipped,play,are playing,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000768__en-en__original,are playing,play,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000788__en-en__flipped,upside-down,inverted,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000788__en-en__original,inverted,upside-down,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000801__en-en__flipped,towards the shore,in the direction of the shoreline,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000801__en-en__original,in the direction of the shoreline,towards the shore,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000808__en-en__flipped,A beagle,the dog of the beagle breed,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000808__en-en__original,the dog of the beagle breed,A beagle,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000811__en-en__flipped,on a beach,at a shoreline,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000811__en-en__original,at a shoreline,on a beach,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000815__en-en__flipped,is running,moving at a run,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000815__en-en__original,moving at a run,is running,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000817__en-en__flipped,on rocks next to water,on a rocky seashore,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000817__en-en__original,on a rocky seashore,on rocks next to water,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000825__en-en__flipped,through the snow,across snow-covered ground,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000825__en-en__original,across snow-covered ground,through the snow,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000833__en-en__flipped,holding a baseball,with a baseball,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000833__en-en__original,with a baseball,holding a baseball,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000842__en-en__flipped,is bouncing,bounces,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000842__en-en__original,bounces,is bouncing,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000845__en-en__flipped,seated upon a swing,on a swing,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000845__en-en__original,on a swing,seated upon a swing,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000846__en-en__flipped,before catching,about to catch,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000846__en-en__original,about to catch,before catching,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000855__en-en__flipped,is standing,remaining upright,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000855__en-en__original,remaining upright,is standing,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000859__en-en__flipped,aged 91,at 91,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000859__en-en__original,at 91,aged 91,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000866__en-en__flipped,family unions,Family Reunions,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000866__en-en__original,Family Reunions,family unions,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000875__en-en__flipped,fall sick,ill,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000875__en-en__original,ill,fall sick,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000876__en-en__flipped,Two French journalists,2 French Journalists,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000876__en-en__original,2 French Journalists,Two French journalists,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000895__en-en__flipped,of Texas fertiliser plant blast,in Texas fertilizer plant blast,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000895__en-en__original,in Texas fertilizer plant blast,of Texas fertiliser plant blast,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000896__en-en__flipped,US,the U.S.,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000896__en-en__original,the U.S.,US,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000906__en-en__flipped,On New Constitution,within the country's newly adopted constitution,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000906__en-en__original,within the country's newly adopted constitution,On New Constitution,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000931__en-en__flipped,near Iranian embassy,in the vicinity of Iran's embassy,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000931__en-en__original,in the vicinity of Iran's embassy,near Iranian embassy,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000933__en-en__flipped,says 's not true,denies,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000933__en-en__original,denies,says 's not true,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000936__en-en__flipped,fresh presidential election,fresh election for president,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000936__en-en__original,fresh election for president,fresh presidential election,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000939__en-en__flipped,by judge,issued by a judge,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000939__en-en__original,issued by a judge,by judge,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000942__en-en__flipped,East Coast,the United States' eastern seaboard,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000942__en-en__original,the United States' eastern seaboard,East Coast,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000943__en-en__flipped,to slide up,zipping up,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000943__en-en__original,zipping up,to slide up,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000948__en-en__flipped,over police crackdown,over police violence,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000948__en-en__original,over police violence,over police crackdown,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000950__en-en__flipped,to set out,to announce,"('NEGATIVE_OTHER', True)",NEGATIVE_OTHER,NEGATIVE_OTHER,True
+dico_phrasis_0000950__en-en__original,to announce,to set out,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000952__en-en__flipped,as rupee crisis,as rupee collapse,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000952__en-en__original,as rupee collapse,as rupee crisis,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000953__en-en__flipped,same-sex marriage,gay marriage,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000953__en-en__original,gay marriage,same-sex marriage,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000954__en-en__flipped,Martial Arts Schools,martial arts clubs,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000954__en-en__original,martial arts clubs,Martial Arts Schools,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000966__en-en__flipped,north . Europe,northern Europe,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000966__en-en__original,northern Europe,north . Europe,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000979__en-en__flipped,after pro-Morsi protest,to pro-Morsi protests,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000979__en-en__original,to pro-Morsi protests,after pro-Morsi protest,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000980__en-en__flipped,Bangladesh building collapse,Bangladesh building disaster,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000980__en-en__original,Bangladesh building disaster,Bangladesh building collapse,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000982__en-en__flipped,in Belgian bus crash,in Belgian coach crash,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000982__en-en__original,in Belgian coach crash,in Belgian bus crash,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000983__en-en__flipped,subjected to a gang rape,gang-raped,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000983__en-en__original,gang-raped,subjected to a gang rape,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0000994__en-en__flipped,May Housing,Housing in May,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0000994__en-en__original,Housing in May,May Housing,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001000__en-en__flipped,executed,'s execution,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001000__en-en__original,'s execution,executed,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001005__en-en__flipped,a man from California,Calif man,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001005__en-en__original,Calif man,a man from California,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001026__en-en__flipped,200 million USD,$ 200 million,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001026__en-en__original,$ 200 million,200 million USD,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001033__en-en__flipped,Washington Post,the newspaper called The Washington Post,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001033__en-en__original,the newspaper called The Washington Post,Washington Post,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001037__en-en__flipped,a knighthood,an honor conferring the title of knight,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001037__en-en__original,an honor conferring the title of knight,a knighthood,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001047__en-en__flipped,Facebook profits,Facebook earnings,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001047__en-en__original,Facebook earnings,Facebook profits,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001062__en-en__flipped,since Rohani election,since Rowhani election,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001062__en-en__original,since Rowhani election,since Rohani election,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001069__en-en__flipped,for granting asylum,for asylum,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001069__en-en__original,for asylum,for granting asylum,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001080__en-en__flipped,'s chemical weapons,weapons that use toxic chemicals,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001080__en-en__original,weapons that use toxic chemicals,'s chemical weapons,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001095__en-en__flipped,A brown and white cow,a bovine with brown-and-white coloring,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001095__en-en__original,a bovine with brown-and-white coloring,A brown and white cow,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001103__en-en__flipped,A ginger and white cat,A orange and white cat,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001103__en-en__original,A orange and white cat,A ginger and white cat,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001129__en-en__flipped,A boy,a male child,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001129__en-en__original,a male child,A boy,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001131__en-en__flipped,the tires belonging to them,their tires,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001131__en-en__original,their tires,the tires belonging to them,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001136__en-en__flipped,on the street,along a city path,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001136__en-en__original,along a city path,on the street,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001143__en-en__flipped,the canine with black fur,The black dog,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001143__en-en__original,The black dog,the canine with black fur,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001150__en-en__flipped,beside a cluttered table,at a messy table,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001150__en-en__original,at a messy table,beside a cluttered table,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001156__en-en__flipped,on green grass,on a lawn,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001156__en-en__original,on a lawn,on green grass,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001167__en-en__flipped,Black and white cat,a feline with black-and-white fur,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001167__en-en__original,a feline with black-and-white fur,Black and white cat,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001174__en-en__flipped,of wooden debris,of used wooden building materials,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001174__en-en__original,of used wooden building materials,of wooden debris,"('NEGATIVE_OTHER', True)",NEGATIVE_OTHER,NEGATIVE_OTHER,True
+dico_phrasis_0001175__en-en__flipped,Pile,a heap,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001175__en-en__original,a heap,Pile,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001210__en-en__flipped,A camouflaged plane,Camouflage airplane,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001210__en-en__original,Camouflage airplane,A camouflaged plane,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001214__en-en__flipped,clings,holding on,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001214__en-en__original,holding on,clings,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001216__en-en__flipped,The rear view,the view from behind,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001216__en-en__original,the view from behind,The rear view,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001218__en-en__flipped,resting at the water's surface,on the water,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001218__en-en__original,on the water,resting at the water's surface,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001221__en-en__flipped,a black and white photo,a monochrome photograph,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001221__en-en__original,a monochrome photograph,a black and white photo,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001224__en-en__flipped,onto the back,on the back,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001224__en-en__original,on the back,onto the back,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001236__en-en__flipped,at a transport terminal,at a station,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001236__en-en__original,at a station,at a transport terminal,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001239__en-en__flipped,perched,resting on elevated spots,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001239__en-en__original,resting on elevated spots,perched,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001243__en-en__flipped,of grassy field,in a field of green grass,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001243__en-en__original,in a field of green grass,of grassy field,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001264__en-en__flipped,wearing,dressed in,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001264__en-en__original,dressed in,wearing,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001265__en-en__flipped,are crossing,moving from one side to the other,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001265__en-en__original,moving from one side to the other,are crossing,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001279__en-en__flipped,Couple,Two people,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001279__en-en__original,Two people,Couple,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001286__en-en__flipped,looks up,looking up,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001286__en-en__original,looking up,looks up,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001291__en-en__flipped,of the stop sign,of the traffic sign that requires stopping,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001291__en-en__original,of the traffic sign that requires stopping,of the stop sign,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001300__en-en__flipped,is lying,laying,"('NEGATIVE_OTHER', True)",NEGATIVE_OTHER,NEGATIVE_OTHER,True
+dico_phrasis_0001300__en-en__original,laying,is lying,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001306__en-en__flipped,with two remote controls,accompanied by both of its remote-control units,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001306__en-en__original,accompanied by both of its remote-control units,with two remote controls,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001323__en-en__flipped,wins Australian election,to Australia first election victory,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001323__en-en__original,to Australia first election victory,wins Australian election,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001324__en-en__flipped,in Mediterranean,from deep Mediterranean Sea,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001324__en-en__original,from deep Mediterranean Sea,in Mediterranean,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001346__en-en__flipped,London Marathon,Every London Marathon runner,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001346__en-en__original,Every London Marathon runner,London Marathon,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001352__en-en__flipped,to East Coast,to US East Coast,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001352__en-en__original,to US East Coast,to East Coast,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001361__en-en__flipped,'s violence,in all forms of violence,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001361__en-en__original,in all forms of violence,'s violence,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001378__en-en__flipped,Berlusconi ministers,Berlusconi party ministers,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001378__en-en__original,Berlusconi party ministers,Berlusconi ministers,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001379__en-en__flipped,Venezuela,"Nicaragua , Venezuela","('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001379__en-en__original,"Nicaragua , Venezuela",Venezuela,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001386__en-en__flipped,Palestinian,7 Palestinians,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001386__en-en__original,7 Palestinians,Palestinian,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001392__en-en__flipped,in Bhutto death,in 2007 Bhutto assassination,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001392__en-en__original,in 2007 Bhutto assassination,in Bhutto death,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001398__en-en__flipped,Palestinian militant,2 Palestinian Militants,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001398__en-en__original,2 Palestinian Militants,Palestinian militant,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001404__en-en__flipped,13 Iraqi army recruits,23 Iraqi army recruits,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001404__en-en__original,23 Iraqi army recruits,13 Iraqi army recruits,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001410__en-en__flipped,Philippines,for Philippines,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001410__en-en__original,for Philippines,Philippines,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001413__en-en__flipped,Protests,In Egyptian Protests,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001413__en-en__original,In Egyptian Protests,Protests,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001423__en-en__flipped,Nigeria,Nigerian police,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001423__en-en__original,Nigerian police,Nigeria,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001437__en-en__flipped,two girls,Two young girls,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001437__en-en__original,Two young girls,two girls,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001444__en-en__flipped,A person,A man,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001444__en-en__original,A man,A person,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001447__en-en__flipped,A black dog,The brown and black dog,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001447__en-en__original,The brown and black dog,A black dog,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001451__en-en__flipped,The dog,A brown and white dog,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001451__en-en__original,A brown and white dog,The dog,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001456__en-en__flipped,is playing,is skijoring,"('NEGATIVE_OTHER', True)",NEGATIVE_OTHER,NEGATIVE_OTHER,True
+dico_phrasis_0001456__en-en__original,is skijoring,is playing,"('NEGATIVE_OTHER', True)",NEGATIVE_OTHER,NEGATIVE_OTHER,True
+dico_phrasis_0001472__en-en__flipped,of a saddle,of a horse saddle,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001472__en-en__original,of a horse saddle,of a saddle,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001479__en-en__flipped,Dog,A brown dog,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001479__en-en__original,A brown dog,Dog,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001491__en-en__flipped,in the grass,in tall grass,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001491__en-en__original,in tall grass,in the grass,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001501__en-en__flipped,A white dog,A wet white dog,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001501__en-en__original,A wet white dog,A white dog,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001505__en-en__flipped,Two Asian men and a woman,Two Asian men and Asian woman,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001505__en-en__original,Two Asian men and Asian woman,Two Asian men and a woman,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001506__en-en__flipped,Two dogs,two puppies,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001506__en-en__original,two puppies,Two dogs,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001511__en-en__flipped,in a dress,in an orange dress,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001511__en-en__original,in an orange dress,in a dress,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001521__en-en__flipped,a scooter,on a scooter,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001521__en-en__original,on a scooter,a scooter,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001523__en-en__flipped,a white Frisbee,with a white Frisbee,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001523__en-en__original,with a white Frisbee,a white Frisbee,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001525__en-en__flipped,in the grass,through the grass,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001525__en-en__original,through the grass,in the grass,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001527__en-en__flipped,Two girls,Girls,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001527__en-en__original,Girls,Two girls,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001540__en-en__flipped,through the snow,through the deep snow,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001540__en-en__original,through the deep snow,through the snow,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001547__en-en__flipped,instruments,brass instruments,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001547__en-en__original,brass instruments,instruments,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001551__en-en__flipped,Saudi Women,Saudis,"('NEGATIVE_OTHER', True)",NEGATIVE_OTHER,NEGATIVE_OTHER,True
+dico_phrasis_0001551__en-en__original,Saudis,Saudi Women,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001562__en-en__flipped,from Japan tunnel,in collapsed Japan tunnel,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001562__en-en__original,in collapsed Japan tunnel,from Japan tunnel,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001564__en-en__flipped,gay marriage,gay marriage bill,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001564__en-en__original,gay marriage bill,gay marriage,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001567__en-en__flipped,as Bangladesh building toll,after deadly Bangladesh building collapse,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001567__en-en__original,after deadly Bangladesh building collapse,as Bangladesh building toll,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001583__en-en__flipped,'s chemical weapons,on chemical weapons,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001583__en-en__original,on chemical weapons,'s chemical weapons,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001584__en-en__flipped,for Boston victims,for Boston bomb victims,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001584__en-en__original,for Boston bomb victims,for Boston victims,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001590__en-en__flipped,for another term,for seventh term,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001590__en-en__original,for seventh term,for another term,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001599__en-en__flipped,Pakistan Taliban,Pakistani Taliban chief Hakimullah Mehsud,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001599__en-en__original,Pakistani Taliban chief Hakimullah Mehsud,Pakistan Taliban,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001600__en-en__flipped,Hakimullah,Pakistani Taliban chief Hakimullah Mehsud,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001600__en-en__original,Pakistani Taliban chief Hakimullah Mehsud,Hakimullah,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001606__en-en__flipped,to airport,to Alaska airport runway,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001606__en-en__original,to Alaska airport runway,to airport,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001629__en-en__flipped,on rebel-held town,into strategic rebelheld town,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001629__en-en__original,into strategic rebelheld town,on rebel-held town,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001630__en-en__flipped,Thai protesters,Thai opposition protesters,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001630__en-en__original,Thai opposition protesters,Thai protesters,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001645__en-en__flipped,hospital,in hospital,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001645__en-en__original,in hospital,hospital,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001654__en-en__flipped,Egypt,Egypt ministry,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001654__en-en__original,Egypt ministry,Egypt,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001656__en-en__flipped,hospital,Texas hospital,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001656__en-en__original,Texas hospital,hospital,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001659__en-en__flipped,$ 25bn oil link,$ 30 billion oil link,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001659__en-en__original,$ 30 billion oil link,$ 25bn oil link,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001663__en-en__flipped,Syria Chemical Weapons,for Syrian Chemical Weapons Transport,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001663__en-en__original,for Syrian Chemical Weapons Transport,Syria Chemical Weapons,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001665__en-en__flipped,Two Palestinians,Palestinians,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001665__en-en__original,Palestinians,Two Palestinians,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001667__en-en__flipped,Protesters,ABVP protesters,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001667__en-en__original,ABVP protesters,Protesters,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001669__en-en__flipped,12 militants,35 militants,"('NEGATIVE_OTHER', True)",NEGATIVE_OTHER,NEGATIVE_OTHER,True
+dico_phrasis_0001669__en-en__original,35 militants,12 militants,"('NEGATIVE_OTHER', True)",NEGATIVE_OTHER,NEGATIVE_OTHER,True
+dico_phrasis_0001675__en-en__flipped,Rafa Nadal,ailing Nadal,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001675__en-en__original,ailing Nadal,Rafa Nadal,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001682__en-en__flipped,Roadside bomb,Roadside bombs,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001682__en-en__original,Roadside bombs,Roadside bomb,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001685__en-en__flipped,closes,abruptly closes,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001685__en-en__original,abruptly closes,closes,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001690__en-en__flipped,fresh record,fresh record high,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001690__en-en__original,fresh record high,fresh record,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001691__en-en__flipped,Stocks,US stocks,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001691__en-en__original,US stocks,Stocks,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001702__en-en__flipped,in Germany Election,in Germany Elections,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001702__en-en__original,in Germany Elections,in Germany Election,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001706__en-en__flipped,Pak army,In Pakistan army,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001706__en-en__original,In Pakistan army,Pak army,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001710__en-en__flipped,Malala,Pakistan 's Malala,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001710__en-en__original,Pakistan 's Malala,Malala,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001714__en-en__flipped,meeting,Moscow meeting,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001714__en-en__original,Moscow meeting,meeting,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001727__en-en__flipped,clash,Brief clashes,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001727__en-en__original,Brief clashes,clash,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001748__en-en__flipped,Two animals,Two mountain goats,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001748__en-en__original,Two mountain goats,Two animals,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001750__en-en__flipped,A train,Black train,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001750__en-en__original,Black train,A train,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001751__en-en__flipped,on couch,on a black couch,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001751__en-en__original,on a black couch,on couch,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001755__en-en__flipped,a baby,a small baby,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001755__en-en__original,a small baby,a baby,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001757__en-en__flipped,A cat,Gray cat,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001757__en-en__original,Gray cat,A cat,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001772__en-en__flipped,Three televisions,Several televisions,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001772__en-en__original,Several televisions,Three televisions,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001778__en-en__flipped,The train,A red train,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001778__en-en__original,A red train,The train,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001781__en-en__flipped,at the station,at the train station,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001781__en-en__original,at the train station,at the station,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001794__en-en__flipped,a sheep,at barn animals,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001794__en-en__original,at barn animals,a sheep,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001801__en-en__flipped,A cruise ship,A large cruise ship,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001801__en-en__original,A large cruise ship,A cruise ship,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001817__en-en__flipped,in water,down a river,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001817__en-en__original,down a river,in water,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001830__en-en__flipped,The red bus,A white and red bus,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001830__en-en__original,A white and red bus,The red bus,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001841__en-en__flipped,People,Several people,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001841__en-en__original,Several people,People,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001846__en-en__flipped,in front of ruins,in front of steps of ruins,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001846__en-en__original,in front of steps of ruins,in front of ruins,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001847__en-en__flipped,bicycle,with a bicycle,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001847__en-en__original,with a bicycle,bicycle,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001848__en-en__flipped,driving,driving down,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001848__en-en__original,driving down,driving,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001856__en-en__flipped,on the ground,on the grass,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001856__en-en__original,on the grass,on the ground,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001871__en-en__flipped,An Apple computer,A white Apple computer,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001871__en-en__original,A white Apple computer,An Apple computer,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001875__en-en__flipped,a baby,with a baby,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001875__en-en__original,with a baby,a baby,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001880__en-en__flipped,a black and white cow,A black and white horned cow,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001880__en-en__original,A black and white horned cow,a black and white cow,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001882__en-en__flipped,with a top hat,wearing black formal wear & a black top hat,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001882__en-en__original,wearing black formal wear & a black top hat,with a top hat,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001883__en-en__flipped,A small bird,A small brown birds,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001883__en-en__original,A small brown birds,A small bird,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001884__en-en__flipped,a brown horse,atop a brown horse,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001884__en-en__original,atop a brown horse,a brown horse,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001887__en-en__flipped,in a field,in a large field,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001887__en-en__original,in a large field,in a field,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001900__en-en__flipped,a shopping cart,a small shopping cart,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001900__en-en__original,a small shopping cart,a shopping cart,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001904__en-en__flipped,Two people,Two young people,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001904__en-en__original,Two young people,Two people,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001906__en-en__flipped,A train,A long train,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001906__en-en__original,A long train,A train,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001908__en-en__flipped,a boat,Small boat,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001908__en-en__original,Small boat,a boat,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001926__en-en__flipped,game,a video game,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001926__en-en__original,a video game,game,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0001940__en-en__flipped,eat,having a meal,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001940__en-en__original,having a meal,eat,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001944__en-en__flipped,The cow,Two cows,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001944__en-en__original,Two cows,The cow,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001945__en-en__flipped,Two cows,Three cows,"('NEGATIVE_OTHER', True)",NEGATIVE_OTHER,NEGATIVE_OTHER,True
+dico_phrasis_0001945__en-en__original,Three cows,Two cows,"('BACKWARD_ENTAILMENT', True)",BACKWARD_ENTAILMENT,BACKWARD_ENTAILMENT,True
+dico_phrasis_0001949__en-en__original,Syria opposition unity,Syria divided opposition,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001952__en-en__original,out of the water,through the water,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001962__en-en__original,to Farrow,against Farrow,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0001979__en-en__original,on Syria abuse,on Syrian chemical arms,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0002003__en-en__original,Bangladesh collapse search,Bangladesh collapse deaths,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0002044__en-en__original,on the grass,by a tree,"('NEGATIVE_OTHER', True)",NEGATIVE_OTHER,NEGATIVE_OTHER,True
+dico_phrasis_0002052__en-en__original,down a snowy hill,sledding,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0002056__en-en__original,white water rafting,down the rapids,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0002069__en-en__original,A family,A naked little girl,"('NEGATIVE_OTHER', True)",NEGATIVE_OTHER,NEGATIVE_OTHER,True
+dico_phrasis_0002071__en-en__original,on an orange wand,from an orange bubble hoop,"('NEGATIVE_OTHER', True)",NEGATIVE_OTHER,NEGATIVE_OTHER,True
+dico_phrasis_0002092__en-en__original,through the water,through the grass,"('NEGATIVE_OTHER', True)",NEGATIVE_OTHER,NEGATIVE_OTHER,True
+dico_phrasis_0002104__en-en__original,A blonde dog,A little blonde girl,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0002141__en-en__original,in a sunlit forest,on a beach,"('NEGATIVE_OTHER', True)",NEGATIVE_OTHER,NEGATIVE_OTHER,True
+dico_phrasis_0002147__en-en__original,on Syrian chemical arms,over Syria chemical claims,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0002152__en-en__original,Afghans,Afghan District Governor,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0002181__en-en__original,`` political '' changes,proposed cuts,"('NEGATIVE_OTHER', True)",NEGATIVE_OTHER,NEGATIVE_OTHER,True
+dico_phrasis_0002188__en-en__original,to Cardinals,Vatican,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0002220__en-en__original,for Mali Town,Mali army,"('NEGATIVE_OTHER', True)",NEGATIVE_OTHER,NEGATIVE_OTHER,True
+dico_phrasis_0002242__en-en__original,Opens,begins operation,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0002244__en-en__original,two people,2,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0002251__en-en__original,Muslim Brotherhood Supreme Guide,Muslim Brotherhood group,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0002266__en-en__original,presidential elections,'s interim president,"('NEGATIVE_OTHER', True)",NEGATIVE_OTHER,NEGATIVE_OTHER,True
+dico_phrasis_0002300__en-en__original,on a runway,close to the ground,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0002307__en-en__original,in front of a door,in front of a fence,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0002314__en-en__original,with a dining room,with large sofas and a dining table,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0002383__en-en__original,with Monaco win,despite Monaco win,"('NEGATIVE_OTHER', True)",NEGATIVE_OTHER,NEGATIVE_OTHER,True
+dico_phrasis_0002406__en-en__original,in Canada Oil Train Explosion,in Canada train crash,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0002436__en-en__original,over child,over daughter,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0002446__en-en__original,in Ukraine,in Syria,"('NEGATIVE_OTHER', True)",NEGATIVE_OTHER,NEGATIVE_OTHER,True
+dico_phrasis_0002463__en-en__original,'s integration,to join,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0002479__en-en__original,to 6.1651,to 6.1696,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0002486__en-en__original,38,to 39,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0002487__en-en__original,Southern Italy Coach Crash,in Italy coach crash,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0002492__en-en__original,Super typhoon,Most powerful typhoon,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0002493__en-en__original,Russia Pulled Back,of Russian Withdrawal,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0002510__en-en__original,as Manager,Ferguson,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0002527__en-en__original,rabbi and Israeli kingmaker,kingmaker of Israeli politics,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0002548__en-en__original,while their dog,while a black dog,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0002560__en-en__original,Two young children,Two small children,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0002567__en-en__original,shaving,is carving,"('NEGATIVE_OTHER', True)",NEGATIVE_OTHER,NEGATIVE_OTHER,True
+dico_phrasis_0002584__en-en__original,are playing,run,"('NEGATIVE_OTHER', True)",NEGATIVE_OTHER,NEGATIVE_OTHER,True
+dico_phrasis_0002597__en-en__original,on a red play structure,on a red jungle gym,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0002599__en-en__original,in the waves,on a medium wave,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0002613__en-en__original,on the shore,on beside the beach,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0002616__en-en__original,onto another,to another,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0002623__en-en__original,as another dog,while another dog,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0002671__en-en__original,performs,to do,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0002676__en-en__original,A young boy,A young girl,"('NEGATIVE_OTHER', True)",NEGATIVE_OTHER,NEGATIVE_OTHER,True
+dico_phrasis_0002708__en-en__original,6.8 quake,Magnitude 6.3 quake,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0002711__en-en__original,catches fire,after fire,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0002712__en-en__original,Israeli forces,security forces,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0002715__en-en__original,after China earthquake,in China quake,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0002738__en-en__original,convicted,get jail time,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0002750__en-en__original,round up,arrest,"('NEGATIVE_OTHER', True)",NEGATIVE_OTHER,NEGATIVE_OTHER,True
+dico_phrasis_0002772__en-en__original,against USD Thursday,against USD Tuesday,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0002790__en-en__original,in West Bank,across West Bank,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0002792__en-en__original,2 Turkish unions,Unions,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0002804__en-en__original,airline pilots,2 Turkish Airlines pilots,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0002806__en-en__original,U.S. drone strike,Pakistan drone strike,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0002842__en-en__original,for Massive Cyclone,for cyclone Phailin,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0002843__en-en__original,on Friday,on Thursday,"('NEGATIVE_OTHER', True)",NEGATIVE_OTHER,NEGATIVE_OTHER,True
+dico_phrasis_0002844__en-en__original,Northwest China,in China,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0002898__en-en__original,may be trapped,trapped,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0002900__en-en__original,Australian senator,Australian lawmaker,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0002925__en-en__original,with network-sharing deal,"network-sharing , spectrum deal","('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0002927__en-en__original,New World Trade Center,One World Trade Center,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0002933__en-en__original,Nigeria lawmaker,Nigerian MP,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0002937__en-en__original,56 stolen skulls,after 56 human skulls,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0002938__en-en__original,in home museum,at his home,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0002943__en-en__original,in first talks,first nuclear talks,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0002952__en-en__original,Al Qaeda Hostages,for hostages,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0002959__en-en__original,at Tian ` anmen,At Tiananmen Square,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0002986__en-en__original,as Mandela,for Mandela,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0003000__en-en__original,A striped cat,Domestic cat,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0003007__en-en__original,Two cats,A white cat,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0003044__en-en__original,stand,are posing,"('NEGATIVE_OTHER', True)",NEGATIVE_OTHER,NEGATIVE_OTHER,True
+dico_phrasis_0003051__en-en__original,in a fenced area,in a gated yard,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0003056__en-en__original,on a wire grate,on a bird feeder,"('NEGATIVE_OTHER', True)",NEGATIVE_OTHER,NEGATIVE_OTHER,True
+dico_phrasis_0003057__en-en__original,on the tracks,down the tracks,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0003063__en-en__original,on a crowded street,on a public street,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0003064__en-en__original,A red double decker bus,A white bus,"('NEGATIVE_OTHER', True)",NEGATIVE_OTHER,NEGATIVE_OTHER,True
+dico_phrasis_0003096__en-en__original,A close-up view,A side view,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0003112__en-en__original,from a bird feeder,on a bird feeder,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0003136__en-en__original,near a model building,infant of an ornate building,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0003178__en-en__original,a pony,a brown horse,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0003187__en-en__original,A man,A child,"('NEGATIVE_OTHER', True)",NEGATIVE_OTHER,NEGATIVE_OTHER,True
+dico_phrasis_0003193__en-en__original,the tracks,on a track,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0003200__en-en__original,in a top hat,with a top hat,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0003203__en-en__original,Yellow striped cat,An orange tabby cat,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0003204__en-en__original,with gardens in front of them,beside a formal garden,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0003226__en-en__original,Two black and white dogs,A dog next to another standing dog,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0003241__en-en__original,one,as one,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0003243__en-en__original,Parrot,A white bird,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0003245__en-en__original,into the camera,at the camera,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0003250__en-en__original,A dining table,A wooden table,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0003251__en-en__original,"with candles , wine , and a teapot","with candles , wine , and a purple plastic bowl","('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0003254__en-en__original,a creek,in a river,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0003264__en-en__original,of a truck,of a van,"('NEGATIVE_OTHER', True)",NEGATIVE_OTHER,NEGATIVE_OTHER,True
+dico_phrasis_0003267__en-en__original,near water and a big ship,with water and a barge,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0003281__en-en__original,in a shop,in a cafe,"('NEGATIVE_OTHER', True)",NEGATIVE_OTHER,NEGATIVE_OTHER,True
+dico_phrasis_0003283__en-en__original,A close-up view,Close up,"('EQUIVALENCE', True)",EQUIVALENCE,EQUIVALENCE,True
+dico_phrasis_0003290__en-en__original,A white bicycle,Old style bicycle,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0003294__en-en__original,A young boy,A small boy,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0003304__en-en__original,on a leather couch,on a black couch,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0003307__en-en__original,of a silver train engine,of a black train engine,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
+dico_phrasis_0003320__en-en__original,from a tree,in a tree,"('FORWARD_ENTAILMENT', True)",FORWARD_ENTAILMENT,FORWARD_ENTAILMENT,True
