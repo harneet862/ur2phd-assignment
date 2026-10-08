@@ -38,7 +38,6 @@ results-part2/
 results-part3/
   zeroshot/                         predictions_llm_zeroshot.csv, scores.json, scores.txt, llm_zeroshot_raw.csv
   fewshot/                          predictions_llm_fewshot.csv, scores.json, scores.txt, llm_fewshot_raw.csv
-report.pdf                          2-page report (TODO)
 ```
 
 Every prediction file uses the required format `instance_id,label` and has 660 rows. `scores.json` also contains the confusion matrix and the per-pair consistency results. The `*_raw.csv` files keep the LLM's raw text output next to the parsed label.
@@ -179,7 +178,7 @@ Spread is the sample standard deviation over the 2 seeds. SoftCons and HardCons 
 
 ## Part 4: analysis
 
-`part4_analysis.ipynb` reproduces all numbers used in the analysis from the files in this repository: the comparison with the pilot results, the confusion matrices, the 10 DeBERTa errors (seed 13), the 5 pairs that fail SoftCons, and the idea for improving consistency. The full discussion is in `report.pdf`.
+`part4_analysis.ipynb` reproduces all numbers used in the analysis from the files in this repository: the comparison with the pilot results, the confusion matrices, the 10 DeBERTa errors (seed 13), the 5 pairs that fail SoftCons, and the idea for improving consistency. The full discussion is in `report.pdf`, which is sent over email.
 
 ## Runs that did not work
 
@@ -190,4 +189,4 @@ Spread is the sample standard deviation over the 2 seeds. SoftCons and HardCons 
 ## Use of AI assistants
 
 > I used Claude (Anthropic) as an assistant during this assignment. I used it to explain concepts (encoders vs decoders, cross-encoder input, tokenization, seeds, the Trainer API, prompting and parsing LLM output), to review code I wrote and point out bugs (for example the overwritten `tokenized_train` variable, out-of-order notebook cells, and passing whole columns instead of single rows to the LLM), and to debug errors such as the fp16 error.
-> It also provided some code (the majority baseline script, the prediction and saving cells, the LLM generation function, the label parser and the few-shot example selection) and with a draft of this README. I ran all experiments myself, checked the outputs, and can explain every line of the code.
+> It also provided some code (the majority baseline script, the prediction and saving cells, the LLM generation function, the label parser and the few-shot example selection), reorganized my Part 2 notebook into separate notebooks, took help for the Part 4 analysis notebook, and wrote first drafts of this README, the analysis text and the report, which I reviewed, edited, and can explain. I ran all experiments myself, checked the outputs, and can explain every line of the code.
