@@ -28,6 +28,7 @@ part2/
   part2_deberta_seed2026.ipynb      System A, seed 2026 (identical except SEED)
   part2_summary.ipynb               mean and spread of System A over seeds
 Part3_llm.ipynb                     System B, zero-shot and few-shot
+part4_analysis.ipynb                Part 4 analysis (comparison, confusion matrices, errors, SoftCons failures, next step)
 results-part0/
   majority_dev.csv                  majority baseline predictions
   scores.json, scores.txt           official scorer output
@@ -63,7 +64,8 @@ Run order:
 3. `part2/part2_deberta_seed2026.ipynb`
 4. `part2/part2_summary.ipynb` (reads `results-part2/seed*/scores.json` from this repository)
 5. `Part3_llm.ipynb` (two full passes over dev, a few minutes each)
-
+6. `part4_analysis.ipynb` (CPU is enough; clones this repository and the task repository, and reads the results already in `results-part0/`, `results-part2/` and `results-part3/`)
+7. 
 Every system was scored with the official scorer, run from inside the task repository:
 
 ```
@@ -174,6 +176,10 @@ Reply with the label only.
 | Qwen2.5-1.5B-Instruct, few-shot (8 examples) | 0.263 | 0.343 | 0.148 |
 
 Spread is the sample standard deviation over the 2 seeds. SoftCons and HardCons are computed over the 277 reversible pairs.
+
+## Part 4: analysis
+
+`part4_analysis.ipynb` reproduces all numbers used in the analysis from the files in this repository: the comparison with the pilot results, the confusion matrices, the 10 DeBERTa errors (seed 13), the 5 pairs that fail SoftCons, and the idea for improving consistency. The full discussion is in `report.pdf`.
 
 ## Runs that did not work
 
